@@ -1,0 +1,50 @@
+@media screen and ( max-width: 767px ){
+    .home-content h1{
+        font-size: 65px;
+        text-align: center;
+    }
+    .home-content{
+        padding-top: 120px;
+    }
+    .home{
+        min-height: 90vh;
+    }
+    .section-title{
+        font-size: 3rem;
+    }
+    .services, .classes{
+        padding: 50px 0;
+    }
+    .carousel-control-prev, .carousel-control-next{
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
